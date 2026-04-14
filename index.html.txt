@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Nishikanta Das | DevOps & AI Platform Engineer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Nishikanta Das</h1>
+  <p>Senior Platform Engineer | DevOps | AI/ML | OpenShift</p>
+</header>
+
+<section id="about">
+  <h2>About Me</h2>
+  <p>
+    Results-driven Platform & DevOps Engineer with 8.6+ years experience in building scalable cloud and AI platforms.
+  </p>
+</section>
+
+<section id="skills">
+  <h2>Skills</h2>
+  <ul>
+    <li>OpenShift, Kubernetes, Helm</li>
+    <li>LLM, GenAI, vLLM, Triton</li>
+    <li>AWS (Bedrock, SageMaker), Azure, GCP</li>
+    <li>Jenkins, GitHub Actions, Azure DevOps</li>
+    <li>Terraform, CloudFormation</li>
+    <li>Python, Shell</li>
+    <li>Prometheus, Grafana, ELK</li>
+  </ul>
+</section>
+
+<section id="experience">
+  <h2>Experience</h2>
+
+  <div>
+    <h3>LTI Mindtree</h3>
+    <p>Specialist DevOps / Platform Engineer (2023 - Present)</p>
+    <ul>
+      <li>Built OpenShift AI platforms</li>
+      <li>Deployed LLM inference using Triton & vLLM</li>
+      <li>Worked with AWS Bedrock & SageMaker</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3>L&T Infotech</h3>
+    <p>Senior DevOps Engineer (2019 - 2022)</p>
+  </div>
+
+</section>
+
+<section id="projects">
+  <h2>Projects</h2>
+
+  <div class="project">
+    <h3>AI Platform on OpenShift</h3>
+    <p>Built scalable AI/ML platform using OpenShift AI and Kubernetes.</p>
+  </div>
+
+  <div class="project">
+    <h3>LLM Inference System</h3>
+    <p>Optimized inference using Triton and vLLM for GenAI workloads.</p>
+  </div>
+
+  <div class="project">
+    <h3>CI/CD Automation</h3>
+    <p>Implemented Jenkins pipelines with Terraform and Ansible.</p>
+  </div>
+
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>Email: devops.nishikanta@gmail.com</p>
+  <p>Phone: 8147535007</p>
+  <p>Location: Bengaluru</p>
+</section>
+
+<footer>
+  <p>© 2026 Nishikanta Das</p>
+</footer>
+
+</body>
+</html>
